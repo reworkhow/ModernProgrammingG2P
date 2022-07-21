@@ -1,0 +1,2 @@
+Covariance,Estimate,Std_Error
+y_y,13.074480356974199,0.8556764252908423

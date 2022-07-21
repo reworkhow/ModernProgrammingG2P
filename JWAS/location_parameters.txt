@@ -1,0 +1,2 @@
+Trait,Effect,Level,Estimate,Std_Error
+1,intercept,intercept,-3.223524417927169,0.11596766347514553
